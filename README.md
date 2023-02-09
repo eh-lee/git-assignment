@@ -1,2 +1,2 @@
 #git-assignment
-dev1 commit1
+dev2 commit1
